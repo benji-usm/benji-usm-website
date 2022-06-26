@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+@import url("../index.html.css");
+
+body{background-color: #1E414F;
+	text-align: center;
+	align-content: center;
+}
+
+h1, p, footer{
+	color: white;
+}
+
+a {
+	padding: 30px;
+}
+
+.container{background-color:#1E414F;}
+
+
